@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055381782452",
+    "firebase_url": "https://covid19-bolivia.firebaseio.com",
+    "project_id": "covid19-bolivia",
+    "storage_bucket": "covid19-bolivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055381782452:android:d5eb2d2af5aaa5b459bce1",
+        "android_client_info": {
+          "package_name": "com.companyname.covid19_bolivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055381782452-f61l44vdoiaaadsvelefbs3cuujmst0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwNWJtieuuV8cySBNAirCXDZ-dTVat8_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055381782452-f61l44vdoiaaadsvelefbs3cuujmst0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

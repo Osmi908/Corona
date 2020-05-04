@@ -1,0 +1,22 @@
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\Covid19 Bolivia.csprojAssemblyReference.cache
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\MenuIniSesion.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\MenuNotificacion.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\PagNoticias.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\PagPrincipal.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\Covid19 Bolivia.AssemblyInfoInputs.cache
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\Covid19 Bolivia.AssemblyInfo.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\bin\Debug\netstandard2.0\Covid19 Bolivia.deps.json
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\bin\Debug\netstandard2.0\Covid19 Bolivia.dll
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\bin\Debug\netstandard2.0\ref\Covid19 Bolivia.dll
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\bin\Debug\netstandard2.0\Covid19 Bolivia.pdb
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\Covid19 Bolivia.dll
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\ref\Covid19 Bolivia.dll
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\Covid19 Bolivia.pdb
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\PagEstadisticas.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\PagInformacion.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\PagUbicacion.xaml.g.cs
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\Covid19 Bolivia.csproj.CoreCompileInputs.cache
+C:\Covid19 Bolivia\Covid19 Bolivia\Covid19 Bolivia\obj\Debug\netstandard2.0\XamlC.stamp
